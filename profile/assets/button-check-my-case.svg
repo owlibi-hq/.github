@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-label="Check My Case Free">
+<defs><linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f04848"/><stop offset="0.45" stop-color="#e11d2a"/><stop offset="1" stop-color="#c81e24"/></linearGradient></defs>
+<rect x="0" y="0" width="260" height="56" rx="28" fill="url(#f)"/>
+<rect x="1" y="1" width="258" height="54" rx="27" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+<text x="120" y="35" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Check My Case Free</text>
+<path d="M220 22 l6 6 l-6 6" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
